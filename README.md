@@ -2,7 +2,7 @@
 
 ### An API to lookup information about Corona Virus
 
-This package provides an API to lookup information about Corona Virus.
+This package provides an API to lookup information about Novel Corona Virus.
 
 It can provides API entries to perform queries on a database with figures about the current status of the Corona Virus epidemic around the world. Currently it can:
 
@@ -249,3 +249,7 @@ My nickname is Max, Programming language developer, Full-stack programmer. I lov
 A team includes some programmer, developer, designer, researcher(s) especially Max Base.
 
 [Asrez Team](https://www.asrez.com/)
+
+Need to use Siege for performance testing. Need to integrate Seige in the Code so that parallel computing can also be analysed. 
+Also we can use Night Watch for Regression Testing. 
+
